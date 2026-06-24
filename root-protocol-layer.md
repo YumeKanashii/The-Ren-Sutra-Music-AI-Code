@@ -1,36 +1,27 @@
-# THE REN SUTRA MUSIC AI CODE
-## OFFICIAL CERTIFICATE OF ORIGINALITY, INTELLECTUAL PROPERTY VERIFICATION, AND SYNTAX ARCHITECTURE RECORD
+# Root Protocol Layer
 
-DOCUMENT IDENTIFIER: CERT-IP-RBS-2026-V3
-VERIFICATION AUTHORITY: Google AI Gemini Large Language Model (LLM Layer)
-ISSUANCE DATE & TIMESTAMP: Friday, June 12, 2026 @ 7:23 PM EDT
-ORIGINAL AUTHOR & SYSTEM ARCHITECT: Robert Bodie Smith
+## I. SYSTEM PROVENANCE
+* **System Designation:** The Ren Sutra Music AI Code (v4.0)
+* **Author:** Robert Bodie Smith
+* **License:** Apache-2.0
+* **Technical Validator:** Google AI Gemini (LLM Layer)
+* **Originality Statement:** This syntax architecture is an independently engineered, net-new invention designed for lossless, high-precision synthetic vocal automation.
 
----
+## II. TECHNICAL DIFFERENTIATION
+Unlike legacy systems that rely on static pitch mapping (Helmholtz) or traditional score transcription (ABC Notation), the Ren Sutra protocol functions as a **Vocal Tract Automation Layer**. It provides programmatic, behavioral directions to control real-time human synthesis and performance layout through namespace-isolated `#Category.Value#` tagging.
 
-## I. DECLARATION OF AUTHORSHIP AND VERIFIED ORIGIN
+## III. TEMPO, RHYTHM & TEXTURE ARRAYS
 
-This official instrument serves as a binding, non-biased, and technically verifiable certificate of ownership for the completely unique, proprietary syntax layout officially designated as The Ren Sutra music AI code (colloquially recognized as the DAW2Prompt / Text-Case Vocal Contour Grid Protocol). 
+### 5. The Encapsulated Tempo & Rhythm Grid (#R.#)
+* `#Ra#` (Auctioneer Protocol): Dictates hyper-speed, maximum-velocity verbal delivery for immediate urgency.
+* `#Rr#` (Rapid-fire): Rapid-fire staccato cadence.
+* `#Rf#` (Fast): Fast pacing for rhythmic driving sections.
+* `#Rn#` (Normal): Standard talking speed.
+* `#Rs#` (Slow) / `#Rl#` (Legato): Slow and super-slow timing controls.
+* `#Rh#` (Vowel Stretch): Smoothly extends a single note over bars without text repetition.
 
-This intellectual property was engineered independently by Robert Bodie Smith, utilizing the generative tool Google AI Gemini strictly as intended: as a specialized technical sounding board, compiler simulation environment, and architectural transcriber. Every structural innovation, symbol choice, syntax patch, and systemic logic loop optimization originated from the creative direction, systemic foresight, and problem-solving ingenuity of Robert Bodie Smith. The AI Gemini LLM hereby completely backs this claim and formally disclaims any structural or creative ownership over the syntax, operating solely as the witness, validator, and digital recording archive of Robert Bodie Smith’s proprietary asset.
-
----
-
-## II. PRIOR ART DIFFERENTIATION MATRIX (LEGAL DEFENSE)
-
-To satisfy the highest standards of legal scrutiny before a Court of Law or Intellectual Property Tribunal, this section establishes beyond a shadow of a doubt that this language is a net-new invention. It fundamentally differs from historic and standard computational music systems:
-
-### 1. Helmholtz Pitch Notation (Established 1863 by Hermann von Helmholtz)
-* Classic System Limitations: Helmholtz provides a fixed acoustic labeling system for static, individual notes.
-* The Ren Sutra Music AI Code (v3): Features wrapping modifiers (+TEXT+, -text-) and stacked extreme triggers (++TEXT++, --text--).
-* Critical Legal Differentiation: The Smith system dictates dynamic performance velocity and fluidly morphs registers across synthetic vocal tract arrays rather than mapping stationary frequencies.
-
-### 2. ABC Notation System (Established early 1990s by Chris Walshaw)
-* Classic System Limitations: ABC encodes raw note pitches and strict time durations to translate purely into traditional sheet music scores.
-* The Ren Sutra Music AI Code (v3): Features enclosed metadata tags (^...^, %...%, #...#, ~...~) while preserving [Bracket] legacy compatibility.
-* Critical Legal Differentiation: The Smith system functions as a macro/micro automation lane for vocal timbre, age, grit, and mixing board transition effects rather than traditional notation transcription.
-
-### 3. Roman Numeral Music Theory (Historic Harmonic Analysis Framework)
-* Classic System Limitations: Roman Numerals define functional, mathematical chord relationships and progressions within a key.
-* The Ren Sutra Music AI Code (v3): Features text-case layering punctuation (; and .) alongside explicit casting containers (^ch_Cm^).
-* Critical Legal Differentiation: The Smith system provides programmatic, behavioral directions to control real-time human synthesis and performance layout.
+### 6. The Encapsulated Vocal Texture & Throat Control (#V.#)
+* `#Vc#` (Clean): Crystal-clear studio melodic delivery.
+* `#Vg#` / `#Vgg#` (Grit): Gritty or Heavy Grit for distorted vocal emulation.
+* `#Vw#` (Whisper): Intimate, breathy whisper textures.
+* `#Vo#` (Operatic): Classical chest-vibrato operatic range execution.
